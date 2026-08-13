@@ -1,4 +1,5 @@
 # Agentic AI 3.0 — Core Concepts README
+<img width="1010" height="469" alt="image" src="https://github.com/user-attachments/assets/ce23535c-2af2-4b05-8a64-eaf7d55b8fac" />
 
 A practical study guide covering:
 
